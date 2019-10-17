@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>Login page</title>
+</head>
+<body>
+<h2>Login Here!</h2>
+Username: <input type="username" name="name" placeholder="Username">
+Password: <input type="password" name="pword" placeholder="Password">
+<br/>
+<input type="submit" value="Login">
+</body>
+</html>
